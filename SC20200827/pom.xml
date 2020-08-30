@@ -11,6 +11,7 @@
 
   <modules>
     <module>payment8001</module>
+    <module>cloudconsumerorder80</module>
   </modules>
 
 
