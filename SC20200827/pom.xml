@@ -14,6 +14,7 @@
     <module>cloudconsumerorder80</module>
       <module>cloudapicommons</module>
     <module>cloudeurekaserver7001</module>
+      <module>cloudeurekaserver7002</module>
   </modules>
 
 

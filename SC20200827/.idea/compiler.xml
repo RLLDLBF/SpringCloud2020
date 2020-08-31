@@ -11,6 +11,7 @@
         <module name="cloudconsumerorder80" />
         <module name="cloudapicommons" />
         <module name="payment8001" />
+        <module name="cloudeurekaserver7002" />
       </profile>
     </annotationProcessing>
   </component>
