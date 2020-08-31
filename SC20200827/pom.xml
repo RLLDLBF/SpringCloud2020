@@ -13,6 +13,7 @@
     <module>payment8001</module>
     <module>cloudconsumerorder80</module>
       <module>cloudapicommons</module>
+    <module>cloudeurekaserver7001</module>
   </modules>
 
 
