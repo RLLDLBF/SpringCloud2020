@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloudeurekaserver7001" />
+        <module name="payment8002" />
         <module name="cloudconsumerorder80" />
         <module name="cloudapicommons" />
         <module name="payment8001" />

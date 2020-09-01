@@ -15,6 +15,7 @@
       <module>cloudapicommons</module>
     <module>cloudeurekaserver7001</module>
       <module>cloudeurekaserver7002</module>
+    <module>payment8002</module>
   </modules>
 
 
