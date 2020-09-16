@@ -16,6 +16,7 @@
         <module name="payment8001" />
         <module name="cloudeurekaserver7002" />
         <module name="controller.OrderConsulController" />
+        <module name="cloud-consumer-feign-order80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
