@@ -13,6 +13,7 @@
         <module name="cloud-consumer-consul-order80" />
         <module name="cloudeurekaserver7001" />
         <module name="cloudconsumerorder80" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-provider-hystrix-payment8001" />
         <module name="payment8001" />
         <module name="cloudeurekaserver7002" />
