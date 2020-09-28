@@ -22,7 +22,7 @@ spring:
             - Path=/payment/lb/**   #断言,路径相匹配的进行路由
 #            - After=2020-09-28T16:01:33.440+08:00[Asia/Shanghai]
 #            - Cookie=username,wyy
-            - Header=X-Request-Id, \d+   #请求头中要有X-Request-Id属性并且值为整数的正则表达式
+#            - Header=X-Request-Id, \d+   #请求头中要有X-Request-Id属性并且值为整数的正则表达式
 
 
 eureka:
